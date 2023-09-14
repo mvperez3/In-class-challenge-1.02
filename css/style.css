@@ -1,0 +1,42 @@
+body{
+background-color:black;
+}
+
+h1{
+color:white;
+text-align:center;
+}
+
+
+h2{
+    color:white;
+    text-align:center;
+}
+
+p{
+color:white;
+text-align:center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+
+
+iframe{
+    display: block;
+    margin: auto;
+}
+
+/* to center videos make into display and use margin */
